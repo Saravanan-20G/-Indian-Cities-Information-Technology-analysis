@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/username/repository/raw/main/image.png)
+![Alt Text](https://github.com/username/repository/raw/main/dataset_cover.png)
